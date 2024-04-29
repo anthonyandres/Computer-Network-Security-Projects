@@ -1,5 +1,3 @@
-> **all projects are done in java**
-
 ## Lab 1
 Implementation of Vignere Cipher for encoding and decoding messages
 
